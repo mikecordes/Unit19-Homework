@@ -225,6 +225,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Submission
 
 Streamlit Video of multiple successful transactions:
+[Full Size Video](https://github.com/mikecordes/Unit19-Homework/blob/main/Images/success.mp4)
 
 ![success](Images/success.gif)
 
