@@ -226,7 +226,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 Streamlit Video of multiple successful transactions:
 
-![success](Images/success_AdobeCreativeCloudExpress (1).gif)
+![success](Images/success.gif)
 
 
 Ganache Address after successful transactions: 
