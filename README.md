@@ -229,7 +229,7 @@ Streamlit Video of multiple successful transactions:
 ![Success!.](Images/success.mp4)
 
 Ganache Address after successful transactions: 
-![Success!.](Images/ganache,png)
+![Success!.](Images/ganache.png)
 
 Streamlit Video of one failed transaction due to not enough ETH:
 
