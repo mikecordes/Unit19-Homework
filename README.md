@@ -226,7 +226,10 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 Streamlit Video of multiple successful transactions:
 
-![suucess](Images/success.mp4)
+![success](Images/success.mp4)
+<video width="320" height="240" controls>
+  <source src="Images/success.mp4" type="video/mp4">
+</video>
 
 Ganache Address after successful transactions: 
 ![Success!.](Images/ganache.png)
