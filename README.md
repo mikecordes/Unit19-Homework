@@ -226,11 +226,11 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 Streamlit Video of multiple successful transactions:
 
-![](Images/success.mp4)
+![suucess](Images/success.mp4)
 
 Ganache Address after successful transactions: 
 ![Success!.](Images/ganache.png)
 
 Streamlit Video of one failed transaction due to not enough ETH:
 
-![](Images/failed.mp4)
+![failed](Images/failed.mp4)
